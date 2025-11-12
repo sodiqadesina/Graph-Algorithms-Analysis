@@ -18,9 +18,11 @@ for each vertex j:
 if matrix[i][j] == 1:
 adjacency_list[i].append(j)
 ```
+### code @ adjacency_matrix_to_list.py
 
 ### Results
-<img width="1742" height="2071" alt="adjacency_matrix_to_list" src="https://github.com/user-attachments/assets/04b51f6e-7b78-4292-bd27-ccb52c30d48d" />
+
+<img width="1742" height="2071" alt="adjacency_matrix_to_list" src="https://github.com/user-attachments/assets/3f602995-e699-4887-9dcc-b137ae42d5c6" />
 
 Output: {0: [1, 3], 1: [0, 2], 2: [1, 3], 3: [0, 2]}
 
